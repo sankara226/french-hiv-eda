@@ -1,6 +1,6 @@
 # French HIV/AIDS Diagnostic Registry - Exploratory Data Analysis (EDA)
 
-A structured, modular data engineering and exploratory profiling pipeline assessing HIV/AIDS diagnosis registries in France.
+This poject is a structured, modular data engineering and exploratory profiling pipeline assessing HIV/AIDS diagnosis registries in France.
 
 ## Pipeline Structural Features
 
